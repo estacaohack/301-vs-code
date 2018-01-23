@@ -15,6 +15,6 @@ Dividir Editor
 	[Mac] -> Cmd + \
 
 Abrir Terminal Interno
-	[Windows] -> Windows + `
+	[Windows] -> Windows + "
 	[Mac] -> control + `
 
