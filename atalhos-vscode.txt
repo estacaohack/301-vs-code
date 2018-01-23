@@ -1,0 +1,20 @@
+Mostrar Paleta de Comandos
+	[Windows] -> Ctrl + Shift + P
+	[Mac] -> Cmd + Shift + P
+
+Mover Linha
+	[Windows] -> Alt + Cima e/ou Alt + Baixo
+	[Mac] -> Option + Cima e/ou Option + Baixo
+
+Duplicar Linha
+	[Windows] -> Shift + Alt + Cima e/ou Shift + Alt + Baixo
+	[Mac] -> Shift + Option + Cima e/ou Shift + Option + Baixo
+
+Dividir Editor
+	[Windows] -> Ctrl + \
+	[Mac] -> Cmd + \
+
+Abrir Terminal Interno
+	[Windows] -> Windows + `
+	[Mac] -> control + `
+
